@@ -1,3 +1,79 @@
-a{
- justify-content: ;
+/*
+p{
+     text-shadow: 20px -20px 1px red;
+}
+.box{
+    margin: 20px;
+    padding: 20px;
+    border: 5px  inset red;
+    box-shadow: 32px 32px 5px pink -32px 
+    
+}
+.link{
+    text-decoration: none;
+    background-color: green;
+    padding: 10px;
+    margin: 20px;
+    color: yellow;
+    border-radius: 107px;
+
+
+}
+.link:hover {
+    color: red;
+    background-color: black;
+    transition-duration: 1.5s;
+}
+table,  th,td{
+    border: 2px solid rgb(0, 0, 0);
+    
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+   text-align: center;
+   
+}
+th{
+    background-color: red;
+}
+tr:hover{
+    background-color: green;
+}
+
+div{
+    background-color: aquamarine;
+    display: block;
+    margin-left: 100px;
+}
+    */
+.main{
+    background-color: rgb(255, 0, 0);
+    height: 400px;  
+    display: flex;
+    
+   align-items: baseline;
+   
+    
+   
+}
+.my-iteme{
+    height: 100px;
+    width: 30%;
+    
+}
+.box1{
+    background-color: rgb(225, 255, 0);
+}
+.box2{
+    background-color: rgb(0, 145, 241);
+    padding-top: 20px;
+    
+}
+.box3{
+    background-color: rgb(55, 255, 0);
+}.box4{
+    background-color: rgb(255, 0, 251);
+    padding-top: 20px;
+    
 }
